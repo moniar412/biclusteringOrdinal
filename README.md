@@ -1,7 +1,7 @@
 # biclusteringOrdinal
 Title: A novel model-based biclustering for ordinal data via an URV approach
 
-Author: Monia Ranalli and Francesca Martella
+Author: Monia Ranalli
 
 Questions, comments and remarks about the code should be addressed to: Monia Ranalli, email: monia.ranalli at uniroma1.it
 
