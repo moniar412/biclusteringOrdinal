@@ -17,4 +17,4 @@ idx <- function(P,mX,no.TH){
     }
   }
   return(Ind)
-}
+} 
