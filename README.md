@@ -10,3 +10,7 @@ In order to reproduce a simulation study one can use files: sim1.R, sim2.R, sim3
 The main functions are randmixBicl.R to generate data, stPoint.R to generate a rational starting point, EMbicl.R to get the parameter estimates, t3postProb1.R to get the posterior probabilities.
 
 The files shall be run in R.
+
+## License
+
+MIT (see `LICENSE`).
