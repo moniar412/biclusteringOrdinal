@@ -13,4 +13,4 @@ The files shall be run in R.
 
 ## License
 
-MIT (see `LICENSE`).
+All rights reserved (see `LICENSE`). The code is made available only to allow the reproduction of the results of the paper; any other use requires the written consent of the authors.
